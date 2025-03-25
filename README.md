@@ -18,7 +18,7 @@ Hello! I'm Priyansh Singh Patel, a passionate tech enthusiast currently navigati
 At the core of my passion lies a deep love for coding. It's my creative outlet and the medium through which I express my ideas and solve intriguing problems. Over the course of my academic pursuit, I've honed my skills in various domains, specializing in Web Development, Python, C, and dipping my toes into the basics of Machine Learning and IoT development.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Priyansh-Singh-Patel) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-singh-patel-27012004dev/) 
 
 # 💻 Tech Stack:
 ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=flat&logo=android&logoColor=white) 
