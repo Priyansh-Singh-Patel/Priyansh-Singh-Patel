@@ -17,7 +17,7 @@
 
 # 💫 About Me:
 Hello! I'm Priyansh Singh Patel, a passionate tech enthusiast currently navigating the exciting world of Computer Science and Engineering.<br>
-At the core of my passion lies a deep love for coding. It's my creative outlet and the medium through which I express my ideas and solve intriguing problems. Over the course of my academic pursuit, I've honed my skills in various domains, specializing in Web Development, Android Develpoment, C, Kotlin.
+At the core of my passion lies a deep love for coding. It's my creative outlet and the medium through which I express my ideas and solve intriguing problems. Over the course of my academic pursuit, I've honed my skills in various domains, specializing in Web Development, Android Development, C and Kotlin.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-singh-patel-27012004dev/) 
